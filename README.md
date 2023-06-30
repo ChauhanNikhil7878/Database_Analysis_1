@@ -4,17 +4,12 @@ This project focuses on analyzing electric vehicle (EV) sales data to gain insig
 
 Key Features:
 
-=>Exploratory data analysis of EV sales data.
-
-=>Identification of top-selling EV models and manufacturers.
-
-=>Analysis of EV sales by category and seating capacity.
-
-=>Visualization of sales trends using line diagrams.
-
-=>Comparison of sales performance among different manufacturers.
-
-=>Examination of the relationship between seating capacity and sales.
+=> Exploratory data analysis of EV sales data.
+=> Identification of top-selling EV models and manufacturers.
+=> Analysis of EV sales by category and seating capacity.
+=> Visualization of sales trends using line diagrams.
+=> Comparison of sales performance among different manufacturers.
+=> Examination of the relationship between seating capacity and sales.
 
 The project aims to provide a comprehensive understanding of the EV market, including the most popular models, successful manufacturers, and the impact of seating capacity on sales. By leveraging data analysis and visualization techniques, valuable insights can be obtained to inform strategic decision-making and further research in the field of electric vehicles.
 Here I am add my project of Adv_Analysis_on_EV.ipynb  NB viewer link so My project graph is clearly visible and more understandable form.
